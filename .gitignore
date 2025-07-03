@@ -1,0 +1,14 @@
+# Ignore model checkpoints and intermediate outputs
+SL-GCN/save_models/
+SL-GCN/wholepose_test_npy/
+SL-GCN/work_dir/
+SL-GCN/data/
+
+# Python cache and system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.swp
+.env
