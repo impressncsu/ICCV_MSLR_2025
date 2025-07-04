@@ -13,7 +13,7 @@
 ### Download pretrained weights  for the SLGCN module
 1. download the save_model.zip folder 
 
- https://drive.google.com/file/d/1B7KrViQ93M5Z8MfpfvfVOFEzdP_xxWya/view?usp=drive_link
+ https://drive.google.com/file/d/14kS0_yFGE0217vzck71Ni_Z2_TsEFHvV/view?usp=sharing
  
 2. Extract inside SL-GCN (ICCV2025_MSLR/SL-GCN/save_models after extraction)
         
