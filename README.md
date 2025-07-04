@@ -1,7 +1,8 @@
 # ICCV2025_MSLR
 
-This repository contains code for **Italian Sign Language Recognition (MSLR)** prepared for the **ICCV 2025 Challenge**.  
-It integrates predictions from **three complementary modalities**—**skeleton**, **radar**, and **RGB video**—to improve isolated sign classification performance.
+This repository contains code for our paper _**"A Multimodal Video and Radar Fusion Framework for High-Accuracy Isolated Sign Language Recognition"**, submitted to the **1st Multimodal Italian Sign Language Recognition Challenge** at **ICCV 2025**._  
+It integrates predictions from **three complementary modalities**—**skeleton**, **radar**, and **RGB video**—to enhance isolated sign classification performance.
+
 
 Our Proposed Multi-modal Framework includes:
 - **Skeleton Dynamics**
